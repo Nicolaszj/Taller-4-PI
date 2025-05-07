@@ -32,6 +32,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['107.22.143.196']
 
+#ALLOWED_HOSTS = []
 
 # Application definition
 
